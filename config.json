@@ -1,0 +1,7 @@
+{
+    "MAX_THREADS": 500,
+    "REQUEST_TIMEOUT": 6,
+    "PROXY_PROTOCOLS": ["socks5", "socks4", "http"],
+    "PROXY_FALLBACK_MODE": true,
+    "PROXY_CHECK_TIMEOUT": 5
+}
