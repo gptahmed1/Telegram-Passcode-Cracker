@@ -35,7 +35,7 @@ A high-performance security testing tool designed to evaluate the resilience of 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/AI4Arabs/telegram-passcode-cracker.git
+git clone https://github.com/gptahmed1/Telegram-Passcode-Cracker.git
 cd telegram-passcode-cracker
 pip install -r requirements.txt
 ```
